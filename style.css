@@ -31,5 +31,26 @@ height: 300px;
     border-radius: 20px;    
     width: 500px;
     height: 300px;
-    object-fit: contain;
+    object-fit: cover;
     }
+
+table, th, td{
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+}
+
+.table-container{
+    display: flex;
+}
+
+
+/*Formulario*/
+
+
+
+.div-form-container{
+    display: flex;
+    width: 700px;
+    height: auto;
+}
