@@ -1,0 +1,35 @@
+h1{
+    color: cadetblue;
+}
+
+.resaltar-rojo{
+    color:red;
+}
+
+.resaltar-amarillo{
+    color: yellow;
+}
+
+h2{
+    color: blue;
+}
+
+.rojo{
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+table, th,td {
+    border: 1px solid black;
+}
+
+th, .t1 {
+    color: rgba(183, 183, 0, 0.753);
+}
+
+#titulo1 {
+    color: blue
+}
