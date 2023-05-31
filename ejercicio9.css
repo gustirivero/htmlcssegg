@@ -3,11 +3,13 @@ h1{
 }
 
 .resaltar-rojo{
+    font-weight: 700;
     color:red;
 }
 
 .resaltar-amarillo{
-    color: yellow;
+    font-weight: 700;
+    color: orange;
 }
 
 h2{
@@ -27,9 +29,44 @@ table, th,td {
 }
 
 th, .t1 {
-    color: rgba(183, 183, 0, 0.753);
+    color: orange;
 }
 
-#titulo1 {
-    color: blue
+.t2{
+    color: red;
+}
+
+
+
+.f{
+    color: forestgreen;
+}
+
+.f-after{
+    color: forestgreen;
+}
+
+.f-after::after{
+    content: " purus ipsum";
+    color: orange;
+}
+
+.titulo-col-1, .titulo-col-2 {
+    color: red;
+}
+
+
+
+
+.p_debajo_tabla{
+color: olive;
+}
+
+.p_span1{
+    color: fuchsia;
+}
+
+.p_span2{
+    color: forestgreen;
+    text-decoration: underline;
 }
