@@ -1,0 +1,36 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    border-collapse: collapse;
+    font-size: 20px;
+    display: flex;
+    
+}
+
+th {
+padding: 10px;
+background-color: #3333;
+border: 2px solid black;
+}
+
+td{
+ border: 2px solid black;
+}
+
+.td1{
+    background-color: #FFFFCC;
+}
+
+.td2{
+    background-color: #FFFFCC;
+}
+
+td:first-child{
+background-color: #E6F3FF;
+}
+
+img{
+background-color: none;
+width: 20px;
+height: 20px;
+}

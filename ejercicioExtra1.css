@@ -1,0 +1,33 @@
+
+.div-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 2em;
+    border: 3px solid black;
+    width: 50%;
+    height: auto;
+    margin: 180px auto;
+}
+
+.primer-ul{
+    color: brown;
+    list-style-type: armenian;
+}
+
+.primer-ul_li:first-child{
+    color: blue;
+}
+
+
+.segundo-ul{
+    list-style-type:upper-latin
+}
+
+.segundo-ul .segundo-ul_li{
+ color: blueviolet;
+}
+
+.segundo-ul .segundo-ul_li a{
+    color: blueviolet;
+   }
