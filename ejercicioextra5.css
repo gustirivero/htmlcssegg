@@ -1,0 +1,8 @@
+.flex-container-products{
+    display: flex;
+    gap: 6px;
+}
+
+.card-body{
+background-color: rgb(254, 250, 243);
+}
