@@ -68,7 +68,7 @@ line-height: 0.5;
 }
 
 .div-product:hover{ 
-   background-color: #D0F5BE;
+   background-color: red;
    width: 520px;
    transition: all 1s;
    
